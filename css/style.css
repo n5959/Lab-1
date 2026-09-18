@@ -4,13 +4,13 @@
   box-sizing: border-box;
 }
 header {
-  background-color:rgb(21, 21, 80);
+  background-color:rgb(21, 21, 81);
   color:white;
   padding: 20px;
   text-align: center;
 }
 .intro {
-    background-color:rgb(21, 21, 80);
+    background-color:rgb(21, 21, 81);
     color:white;
     padding: 20px;
     text-align: center;
@@ -22,11 +22,11 @@ article {
   width: 100%;
   margin-bottom: 16px;
   padding: 20px;
-  background-color: rgb(21, 21, 80);
+  background-color: rgb(21, 21, 81);
   color:white;
 }
 footer {
-    background-color: rgb(21, 21, 80);
+    background-color: rgb(21, 21, 81);
     color: white;
     padding: 20px;
     text-align: center;
